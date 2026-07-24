@@ -1,4 +1,4 @@
-# Getting-Started-with-Gemini
+# Getting-Started-with-Gemi
 
 This repository contains code for a Streamlit web application that leverages Google's Generative AI model (Gemini Pro) to answer questions based on user input. The app allows users to input questions and receive generated responses from the model. It integrates with the Google Generative AI API and provides a simple and interactive interface for exploring the capabilities of the model.
 
