@@ -15,6 +15,6 @@ Run the Streamlit app using the provided Python script.
 Enter questions, click submit, and explore the generated responses.
 Requirements:
 
-Py
+Python
 Streamlit
 Google Generative AI API key (configured in the .env file)
