@@ -16,5 +16,5 @@ Enter questions, click submit, and explore the generated responses.
 Requirements:
 
 Python
-Streamlit
+Stream
 Google Generative AI API key (configured in the .env file)
